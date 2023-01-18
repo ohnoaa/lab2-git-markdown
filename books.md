@@ -14,4 +14,8 @@
 
 ## Here is my work for folders and relative path:
 
-![baby pandas](images/babypanda.jpeg)
+![Baby panda falling :(](images/babypanda.jpeg)
+
+#### My images folder is:
+
+    cd ../images/babypanda.jpeg
