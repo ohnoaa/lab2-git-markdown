@@ -11,3 +11,7 @@
 > Now the file has been added to the rep. The status is showing that there is a new file: books.md
 
      git commit -m"update through step 9"
+
+## Here is my work for folders and relative path:
+
+![baby pandas](images/babypanda.jpeg)
